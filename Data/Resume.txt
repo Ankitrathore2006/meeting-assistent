@@ -1,0 +1,69 @@
+resume_text = """
+Name: Ankit Rathore
+Education:
+- B.Tech (Lateral), Computer Science & Engineering, Medi-Caps University (2023–2026), CGPA: 7.85/10
+- Diploma, Computer Science & Engineering, Dr. Bhim Rao Ambedkar Polytechnic College, Gwalior (2020–2023), CGPA: 7.21/10
+- Class 10th, R.S. Convert High Secondary School, MPBSE (2020), 74.33%
+
+Summary:
+Full-stack developer with 2+ years of experience creating scalable web apps using PHP and MERN stack. 
+Built production-ready solutions for startups and educational institutions. 
+Strong interest in automation, AI, and user-focused design.
+
+Skills:
+- Programming: C, Java, Python, JavaScript, TypeScript, PHP, SQL
+- Web: HTML5, CSS, Bootstrap, Tailwind CSS, React, Next.js
+- Backend: Node.js, Express.js, MongoDB, MySQL
+- Tools: Git, GitHub, Postman, Figma
+- Other: Ajax, Material UI, Shadcn UI, Prisma, Inngest
+
+Work Experience:
+1. Web Developer, IQpaths (Nov 2024 – Present)
+   - Built and optimized front-end interfaces with React.js & Tailwind.
+   - Integrated APIs, solved UX issues, and delivered two client projects with responsive design.
+
+2. PHP Web Developer, Dr. B. R. Ambedkar Polytechnic College (Jul 2021 – Jul 2022)
+   - Developed and debugged full-stack PHP apps.
+   - Improved UI and backend features with MySQL and AJAX.
+
+Internships:
+- Web Developer Intern, PocketVender Tech Pvt. Ltd. (May 2025 – Jul 2025)
+  • Built MERN features, APIs, and enhanced UI/UX with Tailwind & Express.js.
+- MERN Stack Developer Intern, Ideal IT Techno Pvt. Ltd. (Jun 2024 – Aug 2024)
+  • Improved UI & backend with React.js, Node.js, MongoDB.
+
+Projects:
+1. Commercial AI Safety API (Aug 2025)
+   - Built AI-powered safety API for chatbots to detect unsafe content (fraud, self-harm, phishing, harassment).
+   - Added client authentication, rate limiting, and monitoring dashboard.
+   - GitHub: https://github.com/Ankitrathore2006/hackthon-modelBridge/
+
+2. Nobi.ai – Next-Gen AI Website Builder (Jul 2025 – Aug 2025)
+   - AI-driven website builder using React, Next.js, Prisma, NeonDB, Inngest.
+   - Generates responsive layouts & content from prompts.
+   - Live: https://nabi-ai.vercel.app/
+
+3. Jiya – Personal AI Assistant (Jan 2025 – May 2025)
+   - Python & PyQt-based desktop AI assistant with speech I/O, chatbot, and automation.
+   - GitHub: https://github.com/Ankitrathore2006/ai-virtual-system
+
+4. Library Management System (Jun 2022 – Aug 2022)
+   - PHP, MySQL-based system with book/member management.
+   - Deployed at institute: https://www.polygwalior.ac.in/lib_ankit
+
+Achievements & Activities:
+- Technical member, MUIEEE Club, Medi-Caps University.
+- Built Admin & User Panel for Trupti Beverages (freelance).
+- Finalist at Hackwave 2.0 hackathon.
+
+Web Links:
+- GitHub: https://github.com/Ankitrathore2006/
+- Portfolio: https://portfolio-new-roan-gamma.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ankit-rathore-417ab4280
+
+Personal:
+- Date of Birth: 25 Aug 2006
+- Languages: Hindi, English
+- Location: Gwalior, Madhya Pradesh
+- Marital Status: Single
+"""

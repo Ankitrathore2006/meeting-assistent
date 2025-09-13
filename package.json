@@ -1,0 +1,22 @@
+{
+  "name": "meeting-assistent",
+  "version": "1.0.0",
+  "description": "It's a Meeting Assistent.",
+  "homepage": "https://github.com/Ankitrathore2006/meeting-assistent#readme",
+  "bugs": {
+    "url": "https://github.com/Ankitrathore2006/meeting-assistent/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankitrathore2006/meeting-assistent.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "python3 Backend/app.py & cd Frontend && npm i && npm start",
+    "start": "python3 Backend/app.py & cd Frontend && npm start"
+  }
+}

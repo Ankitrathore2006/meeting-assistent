@@ -1,0 +1,17 @@
+# --- Web Framework ---
+flask
+
+# --- AI / NLP ---
+openai
+transformers
+torch
+sentencepiece
+
+# --- Speech Recognition ---
+SpeechRecognition
+pyaudio
+sounddevice
+
+# --- Utilities ---
+python-dotenv
+requests
